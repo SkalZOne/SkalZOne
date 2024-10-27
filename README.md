@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=32&duration=3000&pause=1000&color=24F700&background=000000&center=true&vCenter=true&width=1000&height=150&lines=dmitry%40github%3A~%24+whoami;Loading...;Fullstack+Developer;Location%3A+Universe+C-137;Focus%3A+Creating+Digital+Magic+;Currently+learning%3A+Everything)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=28&duration=3000&pause=1000&color=24F700&background=000000&center=true&vCenter=true&width=1500&height=150&lines=dmitry%40github%3A~%24+whoami;Loading...;Fullstack+Developer;Location%3A+Universe+C-137;Status%3A+Ready+for+new+challenges;Currently+learning%3A+Everything;Coffee+Consumed%3A+1337+cups;Bugs+Eliminated%3A+%E2%88%9E)](https://git.io/typing-svg)
 
 </div>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
@@ -57,14 +57,14 @@ Fullstack-разработчик с опытом создания совреме
 
 ---
 
+### 💻 Текущая активность
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SkalZOne&theme=nord_dark)
+
+---
+
 ### 📫 Как со мной связаться
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/SkalZOne)
 [![Email](https://img.shields.io/badge/Email-005FF9?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:dima.tysyahnyy@mail.ru)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dima.tysyachnyyy@gmail.com)
-
----
-
-### 💻 Текущая активность
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SkalZOne&theme=nord_dark)
