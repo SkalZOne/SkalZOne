@@ -52,7 +52,7 @@ Fullstack-разработчик с опытом создания совреме
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SkalZOne&show_icons=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkalZOne"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkalZOne&theme=dark"/>
 </div>
 
 ---
