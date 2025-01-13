@@ -77,6 +77,10 @@
 
 ---
 
+<h3><a href="https://github.com/SkalZOne/My_Works">My works</a></h3>
+
+---
+
 ### 📫 Contacts
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/SkalZOne)
