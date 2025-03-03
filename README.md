@@ -16,6 +16,7 @@
 	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React" title="React"/>
 	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png" alt="Next.js" title="Next.js"/>
 	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pug.png" alt="Pug" title="Pug"/>
+	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/lua.png" alt="Lua" title="Lua"/>
 </div>
 
 ---
@@ -26,7 +27,8 @@
 	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/django.png" alt="Django" title="Django"/>
 	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/php.png" alt="php" title="php"/>
 	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/laravel.png" alt="Laravel" title="Laravel"/>
-  <img width="50" src="img/svg/1c_bitrix_logo.svg" alt="Laravel" title="Laravel"/>
+  	<img width="50" src="img/svg/1c_bitrix_logo.svg" alt="1C-Bitrix" title="1C-Bitrix"/>
+	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/lua.png" alt="Lua" title="Lua"/>
 </div>
 
 ---
